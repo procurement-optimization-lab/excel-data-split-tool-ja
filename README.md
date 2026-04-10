@@ -28,7 +28,7 @@
 ## ■ ダウンロード
 
 👉 無料版はこちら：  
-（ZIPリンク貼る）
+https://raw.githubusercontent.com/procurement-optimization-lab/excel-data-split-tool-ja/main/Excel%E3%83%87%E3%83%BC%E3%82%BF%E8%87%AA%E5%8B%95%E4%BB%95%E5%88%86%E3%81%91%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%88%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96%EF%BC%89(%E6%A9%9F%E8%83%BD%E5%88%B6%E9%99%90%E7%89%88%EF%BC%89.zip
 
 - 最大5件まで分割可能
 
