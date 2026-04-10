@@ -36,8 +36,8 @@ https://raw.githubusercontent.com/procurement-optimization-lab/excel-data-split-
 
 ## ■ 無制限版
 
-お問い合わせください：  
-tv2b4j@bma.biglobe.ne.jp
+有料版はこちら👇
+https://polab.booth.pm/items/8179313
 
 ---
 
